@@ -1,7 +1,19 @@
-# Hi there 👋
+# **Hello! My Name is Benjamin McShane (He/Him/They/Them)**
+[image](url)
+[image](url)
 
-<!--
-**BMMcShane/BMMcShane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+
+## Current Projects
+
+## Links:
+
+![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
+[Link] (https://dev.to/bmmcshane)
+
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
