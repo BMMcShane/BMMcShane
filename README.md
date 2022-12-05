@@ -1,4 +1,4 @@
-# **Hello! My Name is Benjamin McShane (He/Him/They/Them)**
+# **Hello! I'm Ben McShane (He/Him/They/Them)**
 <p align="center">
   <img align="left" width="47%" height="200vh" style="margin_left:25%" src="https://github-readme-stats.vercel.app/api?username=BMMcShane&show_icons=true&theme=dracula"/>
 
