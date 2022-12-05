@@ -1,5 +1,5 @@
 # **Hello! My Name is Benjamin McShane (He/Him/They/Them)**
-[![BMMcShane's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMMcShane)](https://github.com/BMMcShane/github-readme-stats)
+[![BMMcShane's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMMcShane&theme=dracula)](https://github.com/BMMcShane/github-readme-stats)
 
 ## About Me
 
