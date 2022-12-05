@@ -1,6 +1,6 @@
 # **Hello! My Name is Benjamin McShane (He/Him/They/Them)**
-<img align="left" width="47%" height="10vh" src="https://github-readme-stats.vercel.app/api?username=BMMcShane&show_icons=true&theme=dracula"/>
-<img align="left" width="47%" height="10vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&layout=compact&theme=dracula"/>
+<img align="left" width="47%" height="100vh" src="https://github-readme-stats.vercel.app/api?username=BMMcShane&show_icons=true&theme=dracula"/>
+<img align="left" width="47%" height="100vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&layout=compact&theme=dracula"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
