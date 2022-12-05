@@ -2,6 +2,8 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BMMcShane&theme=dracula&show_icons=true"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&theme=dracula&layout=compact"/>
 
+<br/><br/>
+
 
 ## About Me
 
