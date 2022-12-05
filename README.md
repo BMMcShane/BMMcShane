@@ -1,5 +1,5 @@
 # **Hello! My Name is Benjamin McShane (He/Him/They/Them)**
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BMMcShane&theme=dracula&show_icons=true"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BMMcShane&show_icons=true&theme=dracula"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&theme=dracula&layout=compact"/>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
