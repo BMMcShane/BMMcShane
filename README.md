@@ -1,6 +1,6 @@
 # **Hello! My Name is Benjamin McShane (He/Him/They/Them)**
 [![BMMcShane's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMMcShane&theme=dracula)](https://github.com/BMMcShane/github-readme-stats)
-[![BMMcShane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&theme=dracula)]
+[![BMMcShane's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&theme=dracula&layout=compact)]
 
 ## About Me
 
