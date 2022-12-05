@@ -5,7 +5,7 @@
   <img align="left" width="47%" height="200vh" style="margin_left:25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMMcShane&layout=compact&theme=dracula"/>
 </p>
  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
  <p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -17,8 +17,6 @@
   <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
  </p>
- 
- <br/><br/><br/>
 
 
 ## Current Projects
